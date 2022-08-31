@@ -1,0 +1,1 @@
+Since there are too many physicians' information to be obtained, the time required is too long. So to prevent inaccurate data due to long date gaps, we split the physicians into many small parts to crawl the information at the same time. This is the code that crawls one of the parts of the physicians.
